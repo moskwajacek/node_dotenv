@@ -1,0 +1,24 @@
+{
+  "name": "node_dotenv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moskwajacek/node_dotenv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moskwajacek/node_dotenv/issues"
+  },
+  "homepage": "https://github.com/moskwajacek/node_dotenv#readme",
+  "dependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
